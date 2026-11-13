@@ -21,3 +21,5 @@ course-remote-info.yaml
 
 __pycache__/
 *.py[cod]
+
+data.txt
